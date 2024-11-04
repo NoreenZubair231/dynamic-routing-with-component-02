@@ -40,3 +40,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 "# dynamic-routing-with-component-02" 
 "# dynamic-routing-with-component-o2" 
 "# dynamic-routing--1" 
+"# dynamic-routing-with-component-2" 
